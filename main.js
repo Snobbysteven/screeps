@@ -10,6 +10,8 @@ var roleTower = require('role.tower');
 var roleRepairerWall = require('role.repairerwall');
 //var roleTransporter = require('role.transporter');
 
+//testing testing testing testing
+
 module.exports.loop = function () {
     //////
 
